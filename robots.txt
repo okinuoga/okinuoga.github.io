@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okinuoga.github.io/KjZ/sitemap_index.txt
+Sitemap: https://okinuoga.github.io/lNs/sitemap_index.txt
+Sitemap: https://okinuoga.github.io/qtv/sitemap_index.txt
+Sitemap: https://okinuoga.github.io/sOB/sitemap_index.txt
